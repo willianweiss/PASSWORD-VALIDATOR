@@ -1,4 +1,4 @@
-`# PASSWORD-VALIDATOR
+# PASSWORD-VALIDATOR
 
 ## Descrição
 
